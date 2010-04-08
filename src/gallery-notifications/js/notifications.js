@@ -1,4 +1,5 @@
 
+
 	/*
 	 * Copyright (c) 2010 Ricardo Ramirez. All rights reserved.
 	 *
@@ -258,6 +259,7 @@
 			tabNode.addClass('closed');
 		}	
 	};
+
 	
 	/**
 	 * Programatically add a new notification. This method is called to insert a new notification into the notifications window. The notification will be added
